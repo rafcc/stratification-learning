@@ -1,5 +1,5 @@
-title: RIKEN AIP-FUJITSU Collaboration Center 
-author:
+title: Stratification Learning Project
+author: RIKEN AIP-FUJITSU Collaboration Center 
 email: aaa
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -15,9 +15,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    #twitter: jekyllrb
+    #github:  jeky
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -42,7 +42,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
-# - about.md
+ - about.md
 
 # Build settings
 theme: jekyll-theme-cayman
