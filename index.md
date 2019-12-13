@@ -19,7 +19,7 @@ This is the top page of our research project, stratification learning.
     - [codes](https://github.com/rafcc/aaai-19.2786)
     - [proceeding](https://aaai.org/ojs/index.php/AAAI/article/view/4069)
     - [arxiv](https://arxiv.org/abs/1812.05222)
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi, Naoki Hamada: "Bézier Simplex Fitting: Asymptotic Risk of Bézier Simplex Fitting," Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), in press.
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: "Bézier Simplex Fitting: Asymptotic Risk of Bézier Simplex Fitting," Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), in press.
     - [codes](https://github.com/rafcc/aaai-20.1534)
     - [arxiv](https://arxiv.org/abs/1906.06924)
 
