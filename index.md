@@ -13,11 +13,7 @@ layout: page
 
 This is the top page of our research project, stratification learning. 
 
-## Members 
-
-## Publications
-
-### Refreed Proceedings
+## Refreed Proceedings
 
 1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenich Bannai and Masashi. Sugiyama: "Bézier Simplex Fitting: Describing Pareto Fronts of Simplicial Problems with Small Samples in Multi-Objective Optimization," Proceedings of the 33 rd AAAI Conference on Artificial Intelligence (AAAI 2019), 2304-2313 (2019).
     - [codes](https://github.com/rafcc/aaai-19.2786)
