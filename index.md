@@ -9,7 +9,7 @@ layout: page
 ---
 
 
-## A
+<h1>Stratification Learning</h1>
 
 This is the top page of our research project, stratification learning. 
 
