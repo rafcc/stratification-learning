@@ -9,7 +9,11 @@ layout: page
 ---
 
 
+## A
+
 This is the top page of our research project, stratification learning. 
+
+## Members 
 
 ## Publications
 
