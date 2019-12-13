@@ -12,6 +12,7 @@ layout: page
 
 This is the top page of our research project, stratification learning. 
 
+---
 # Publications
 
 ## Refreed Proceedings
@@ -24,4 +25,6 @@ This is the top page of our research project, stratification learning.
     - [codes](https://github.com/rafcc/aaai-20.1534)
     - [arxiv](https://arxiv.org/abs/1906.06924)
 
+---
 # Tools
+- under preparation...
