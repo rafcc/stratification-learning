@@ -2,9 +2,7 @@ title: Stratification Learning Project
 author: RIKEN AIP-FUJITSU Collaboration Center
 email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is top page of our project, stratification learning.
 # social links
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -42,5 +40,5 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+ #- jekyll-feed
+ #- jekyll-seo-tag
