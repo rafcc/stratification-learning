@@ -8,6 +8,7 @@
 layout: page
 ---
 
+# Stratification Learning
 
 This is the top page of our research project, stratification learning. 
 
