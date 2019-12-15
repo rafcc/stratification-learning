@@ -13,14 +13,14 @@ layout: page
 
 This is the top page of our research project, stratification learning. 
 
-## Refreed Proceedings
+## Refereed Proceedings
 
-1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenich Bannai and Masashi. Sugiyama: "Bézier Simplex Fitting: Describing Pareto Fronts of Simplicial Problems with Small Samples in Multi-Objective Optimization," Proceedings of the 33 rd AAAI Conference on Artificial Intelligence (AAAI 2019), 2304-2313 (2019).
-    - [codes](https://github.com/rafcc/aaai-19.2786)
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenich Bannai and Masashi Sugiyama: "Bézier Simplex Fitting: Describing Pareto Fronts of Simplicial Problems with Small Samples in Multi-Objective Optimization," in Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 2304-2313 (2019).
+    - [code](https://github.com/rafcc/aaai-19.2786)
     - [proceeding](https://aaai.org/ojs/index.php/AAAI/article/view/4069)
     - [arxiv](https://arxiv.org/abs/1812.05222)
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: "Bézier Simplex Fitting: Asymptotic Risk of Bézier Simplex Fitting," Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), in press.
-    - [codes](https://github.com/rafcc/aaai-20.1534)
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: "Bézier Simplex Fitting: "Asymptotic Risk of Bézier Simplex Fitting," in Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), in press.
+    - [code](https://github.com/rafcc/aaai-20.1534)
     - [arxiv](https://arxiv.org/abs/1906.06924)
 
 ## Tools
