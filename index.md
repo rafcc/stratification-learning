@@ -9,7 +9,7 @@ layout: page
 ---
 
 
-# Stratification Learning
+# What is stratification Learning?
 
 _Stratification learning (SL)_ is a new machine learning paradigm developed in RIKEN AIP-FUJITSU Collaboration Center (RAFCC), a leading research institute of artificial intelligence in Japan.
 While the classical manifold learning assumes that high dimensional data are distributed around a low dimensional manifold, SL assumes that the data are stratified according to some underlying _stratified space_, which is a composite of manifolds of varying dimensions.
