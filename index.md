@@ -18,11 +18,11 @@ This page provides published papers of SL and source code for reproducing experi
 
 ## Refereed Papers
 
-1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenich Bannai and Masashi Sugiyama: "Bézier Simplex Fitting: Describing Pareto Fronts of Simplicial Problems with Small Samples in Multi-Objective Optimization," in Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 2304-2313 (2019).
+1. Ken Kobayashi, Naoki Hamada, Akiyoshi Sannai, Akinori Tanaka, Kenich Bannai and Masashi Sugiyama: "Bézier Simplex Fitting: Describing Pareto Fronts of Simplicial Problems with Small Samples in Multi-Objective Optimization," in Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19), 2304-2313 (2019).
     - [paper](https://doi.org/10.1609/aaai.v33i01.33012304)
     - [code](https://github.com/rafcc/aaai-19.2786)
     - [supplements](https://arxiv.org/abs/1812.05222)
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: "Asymptotic Risk of Bézier Simplex Fitting," in Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020), in press.
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: "Asymptotic Risk of Bézier Simplex Fitting," in Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI-20), in press.
     - [code](https://github.com/rafcc/aaai-20.1534)
     - [arxiv](https://arxiv.org/abs/1906.06924)
 
