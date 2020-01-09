@@ -8,7 +8,6 @@
 layout: page
 ---
 
-
 <h1>What is Stratification Learning?</h1>
 
 _Stratification learning (SL)_ is a new machine learning paradigm developed in RIKEN AIP-FUJITSU Collaboration Center (RAFCC), a leading research institute of artificial intelligence in Japan.
