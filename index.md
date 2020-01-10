@@ -19,7 +19,7 @@ _Stratification learning (SL)_ is a new machine learning paradigm developed in [
 Stratification learning extends the concept of manifold learning for better handling of geometrically structured data in high dimensional spaces.
 Manifold learning relies on the assumption that high dimensional data in real-world applications is often sparse and distributed along with a low dimensional manifold.
 Stratification learning assumes that data are distributed along with a _stratified space_, which is a composite of manifolds of varying dimensions.
-Moreover, the data are stratified according to _strata_, i.e., component manifolds of the stratified space.
+Moreover, such data are stratified according to _strata_, i.e., component manifolds of the stratified space.
 By utilizing such a geometric structure, we can achieve an unprecedentedly efficient learning!
 
 
