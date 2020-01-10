@@ -32,7 +32,7 @@ Under some mild conditions, the Pareto critical set and local Pareto set of gene
 Numerical optimizers give a sample from these solution sets.
 Such a sample is a good leaning source of stratification learning.
 
-### Biologcal data modeling
+### Biological data modeling
 A stratified space also arises in modeling the genetypic divergence of a species in evolutionary biology.
 It is known that genotypes of a species distribute along with a "curved" simplex.
 A simplex is the simplest instance of stratified spaces, whose strata are vertices, edges, faces, and so on.
