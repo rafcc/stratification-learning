@@ -12,8 +12,13 @@ layout: page
 
 ## What is Stratification Learning?
 
-_Stratification learning (SL)_ is a new machine learning paradigm developed in RIKEN AIP-FUJITSU Collaboration Center (RAFCC), a leading research institute of artificial intelligence in Japan.
-While the classical manifold learning assumes that high dimensional data are distributed around a low dimensional manifold, SL assumes that the data are stratified according to some underlying _stratified space_, which is a composite of manifolds of varying dimensions.
+_Stratification learning (SL)_ is a new machine learning paradigm developed in [RIKEN AIP-FUJITSU Collaboration Center (RAFCC)](https://aip.riken.jp/labs/lab-fujitsu/), a leading research institute of artificial intelligence in Japan.
+
+### Beyond manifold learning
+
+Stratification learning extends the concept of manifold learning for better handling of geometrically structured data in high dimensional spaces.
+Manifold learning relies on the assumption that high dimensional data in real-life applications is often sparse and distributed along with a single low dimensional manifold.
+Stratification learning assumes that data are sparse and distributed along with a low dimensional _stratified space_; moreover, the data are stratified according to _strata_, which is a composite of manifolds of varying dimensions.
 By exploiting such a geometric structure, we can achieve an unprecedentedly efficient learning!
 
 This page provides published papers of SL and source code for reproducing experiments therein. 
