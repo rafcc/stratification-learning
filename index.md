@@ -58,4 +58,6 @@ The following list provides published papers of SL and source code for reproduci
     - [arxiv](https://arxiv.org/abs/1906.06924)
 
 ## Tools
-- under preparation...
+1. PyTorch-BSF: PyTorch implementation of Bezier simplex fitting.
+    - [code](https://github.com/rafcc/pytorch-bsf)
+    - [pypi](https://pypi.org/pytorch-bsf)
